@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">a2023_tp3</string>
+
+    <string name="title">En Français</string>
+    <string name="label_text">Un texte :</string>
+    <string name="label_color">Une couleur :</string>
+    <string name="label_image">Une image :</string>
+
+
+</resources>

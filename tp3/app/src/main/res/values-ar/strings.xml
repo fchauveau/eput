@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">a2023_tp3</string>
+
+    <string name="title">بالعربية</string>
+
+    <string name="label_text">نص:</string>
+    <string name="label_color">لون :</string>
+    <string name="label_image">صورة :</string>
+</resources>
